@@ -1,6 +1,6 @@
-## ¡Hola! Soy Yeyref 🌟
+## ¡Hola! Soy Yeferson Rosales R 🌟
 
-Soy un desarrollador web con experiencia en Vue.js, JavaScript y tecnologías frontend. Apasionado por crear interfaces de usuario intuitivas y eficientes.(Aunque fullstack si asi se requiere)
+Soy un desarrollador web con experiencia en Vue.js, JavaScript y tecnologías frontend. Apasionado por crear interfaces de usuario intuitivas y eficientes. (Aunque fullstack si asi se requiere 😁)
 
 ---
 
@@ -22,7 +22,7 @@ Soy un desarrollador web con experiencia en Vue.js, JavaScript y tecnologías fr
 ### 💻 Sobre Mí
 
 - 💻 Apasionado por el desarrollo web
-- 💪 Experiencia con Vue.js, JavaScript, HTML, CSS, SASS, VUETIFY, Tailwind, NodeJs, ExpressJS, Postgresql
+- 💪 Experiencia con Vue.js, JavaScript, HTML, CSS, SASS, VUETIFY, Tailwind, NodeJs, ExpressJS, PostgreSQL
 - ✨ Siempre aprendiendo cosas nuevas en tecnología y nuevas tecnologias(para mi) como PHP, Laravel, React, NestJs, MongoDB
 
 ---
